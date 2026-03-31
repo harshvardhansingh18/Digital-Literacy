@@ -1,0 +1,9 @@
+Hi, I'm HARSH VARDHAN SINGH
+
+Branch: B.Tech in CSE CYBER SECURITY
+
+Institution: VIT Bhopal University
+
+Year: 1st Year (Batch 2025–2029)
+
+Goal: I hope to learn how to integrate advanced Machine Learning models with CYBER SECURITY to create impactful real-world solutions.
